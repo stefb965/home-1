@@ -194,7 +194,60 @@ portfolio:
   categories: [Light Themes]
   image: belo.png
   url: 'https://play.google.com/store/apps/details?id=dejan.llevo3.belo'
+  
+# Portfolio Item
+- title: Flux
+  categories: [Dark Themes]
+  image: flux.png
+  url: 'https://play.google.com/store/apps/details?id=flux.substratum.theme'
 
+# Portfolio Item
+- title: Outline
+  categories: [Light Themes]
+  image: outline.png
+  url: 'https://play.google.com/store/apps/details?id=com.schnettler.outline'
+  
+# Portfolio Item
+- title: Transparent
+  categories: [Clear Themes]
+  image: transparent.png
+  url: 'https://play.google.com/store/apps/details?id=com.spada.transparent'
+  
+# Portfolio Item
+- title: ShadeUI
+  categories: [Dark Themes]
+  image: shadeui.png
+  url: 'https://play.google.com/store/apps/details?id=com.spada.tealholerro'
+  
+# Portfolio Item
+- title: BlackLight
+  categories: [Light Themes]
+  image: blacklight.png
+  url: 'https://play.google.com/store/apps/details?id=com.spada.blacklightrro'
+  
+# Portfolio Item
+- title: Magpie
+  categories: [Dark Themes, Light Themes, Clear Themes]
+  image: magpie.png
+  url: 'https://play.google.com/store/apps/details?id=com.setiawanjimmy.TheMagpie'
+  
+# Portfolio Item
+- title: LoNe 4SuBs
+  categories: [Dark Themes, Light Themes]
+  image: lone.png
+  url: 'https://play.google.com/store/apps/details?id=com.kikkos.lone4subs'  
+
+# Portfolio Item
+- title: Streamlined Night
+  categories: [Dark Themes]
+  image: StreamlinedNight.png
+  url: 'https://play.google.com/store/apps/details?id=snn.streamlined.night'
+
+# Portfolio Item
+- title: BluEmerald
+  categories: [Dark Themes]
+  image: bluemerald.png
+  url: 'https://play.google.com/store/apps/details?id=io.xdevs23.theme.bluemerald.cm'
 #####################################
 ##########  Core Features  ##########
 #####################################
