@@ -163,7 +163,7 @@ features:
 #####################################
 ############  Portfolio  ############
 #####################################
-portfolio-title: Check out our available themes on the market!
+portfolio-title: Check out the available Substratum themes on the market!
 portfolio-description: A theming engine is nothing without its community. Our community consists of many senior themers back in the day, as well as many new ones too!
 
 #
@@ -176,6 +176,7 @@ portfolio:
 - title: Projekt Klar
   categories: [Clear Themes]
   image: klar.png
+  url: 'http://niceme.me/'
   
 # Portfolio Item
 - title: Mono
@@ -242,6 +243,35 @@ portfolio:
   categories: [Dark Themes]
   image: bluemerald.png
   url: 'https://play.google.com/store/apps/details?id=io.xdevs23.theme.bluemerald.cm'
+# Portfolio Item
+- title: Fruit
+  categories: [Light Themes]
+  image: fruit.png
+  url: 'https://play.google.com/store/apps/details?id=substratum.blinq.fruit'
+  
+# Portfolio Item
+- title: Lynx
+  categories: [Dark Themes]
+  image: lynx.png
+  url: 'https://play.google.com/store/apps/details?id=substratum.blinq.lynx'
+  
+# Portfolio Item
+- title: Vibrance
+  categories: [Dark Themes]
+  image: vibrance.png
+  url: 'https://play.google.com/store/apps/details?id=substratum.blinq.vibrance'
+  
+# Portfolio Item
+- title: Glow
+  categories: [Dark Themes]
+  image: glow.png
+  url: 'https://play.google.com/store/apps/details?id=substratum.blinq.glow'
+  
+# Portfolio Item
+- title: Compound
+  categories: [Dark Themes]
+  image: compound.png
+  url: 'https://play.google.com/store/apps/details?id=com.subs.compound'
 #####################################
 ##########  Core Features  ##########
 #####################################
