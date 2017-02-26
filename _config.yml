@@ -243,6 +243,12 @@ portfolio:
   categories: [Dark Themes]
   image: bluemerald.png
   url: 'https://play.google.com/store/apps/details?id=io.xdevs23.theme.bluemerald.cm'
+
+#Portfolio Item
+- title: Greyce
+  categories: [Light Themes]
+  image: greyce.png
+  url: 'https://play.google.com/store/apps/details?id=substratum.greyce.pc'
 #####################################
 ##########  Core Features  ##########
 #####################################
