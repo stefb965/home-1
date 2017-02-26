@@ -251,6 +251,12 @@ portfolio:
   url: 'https://play.google.com/store/apps/details?id=substratum.greyce.pc'
 
 # Portfolio Item
+- title: Domination
+  categories: [Dark Themes]
+  image: domination.png
+  url: 'https://play.google.com/store/apps/details?id=com.annihilation.dominationdonate'
+
+# Portfolio Item
 - title: Fruit
   categories: [Light Themes]
   image: fruit.png
