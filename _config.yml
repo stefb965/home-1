@@ -229,7 +229,7 @@ portfolio:
 # Portfolio Item
 - title: LoNe 4SuBs
   categories: [Dark Themes, Light Themes]
-  image: lone.jpg
+  image: lone.png
   url: 'https://play.google.com/store/apps/details?id=com.kikkos.lone4subs'  
 
 # Portfolio Item
