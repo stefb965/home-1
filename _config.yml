@@ -235,7 +235,7 @@ portfolio:
 # Portfolio Item
 - title: Streamlined Night
   categories: [Dark Themes]
-  image: streamlinednight.png
+  image: streamlined.png
   url: 'https://play.google.com/store/apps/details?id=snn.streamlined.night'
 
 # Portfolio Item
