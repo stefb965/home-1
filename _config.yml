@@ -171,12 +171,6 @@ portfolio-description: A theming engine is nothing without its community. Our co
 #
 portfolio-categories: [Clear Themes, Dark Themes, Light Themes]
 portfolio:
-
-# Portfolio Item
-- title: Projekt Klar
-  categories: [Clear Themes]
-  image: klar.png
-  url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   
 # Portfolio Item
 - title: Mono
@@ -284,17 +278,20 @@ portfolio:
 - title: Compound
   categories: [Dark Themes]
   image: compound.png
-  url: 'https://play.google.com/store/apps/details?id=com.subs.compound'  
+  url: 'https://play.google.com/store/apps/details?id=com.subs.compound'
+
 # Portfolio Item
 - title: Spectrum
   categories: [Dark Themes]
   image: spectrum.png
-  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Spectrum'  
+  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Spectrum'
+
 # Portfolio Item
 - title: Luminous
   categories: [Light Themes]
   image: luminous.png
-  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Luminous'  
+  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Luminous'
+
 # Portfolio Item
 - title: Wavvy
   categories: [Dark Themes]
