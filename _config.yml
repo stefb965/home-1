@@ -278,7 +278,22 @@ portfolio:
 - title: Compound
   categories: [Dark Themes]
   image: compound.png
-  url: 'https://play.google.com/store/apps/details?id=com.subs.compound'
+  url: 'https://play.google.com/store/apps/details?id=com.subs.compound'  
+# Portfolio Item
+- title: Spectrum
+  categories: [Dark Themes]
+  image: spectrum.png
+  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Spectrum'  
+# Portfolio Item
+- title: Luminous
+  categories: [Light Themes]
+  image: luminous.png
+  url: 'https://play.google.com/store/apps/details?id=com.jerbeck24.Luminous'  
+# Portfolio Item
+- title: Wavvy
+  categories: [Dark Themes]
+  image: wavvy.png
+  url: 'https://play.google.com/store/apps/details?id=njad.wavvysubs.theme'
 
 #####################################
 ##########  Core Features  ##########
