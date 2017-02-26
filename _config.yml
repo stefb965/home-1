@@ -1,0 +1,369 @@
+#
+# Sera - OnePage Jekyll Template
+# Configuration File
+#
+
+# Information for compile
+exclude: ["node_modules", "gulpfile.js", "package.json", "README.md"]
+
+#######################################################
+#######################################################
+###############   HEADER INFORMATIONS   ###############
+#######################################################
+#######################################################
+
+# This is your site title
+title: home of substratum
+# Website language
+lang: en-US
+# Header Title
+header-title:
+# Header Tagline
+headter-tagline:
+
+####################################
+######   CTA Header Buttons   ######
+####################################
+
+# Focus Buttons
+header-focus-button:
+  title: Download Now
+  url: https://themeforest.net/collections/6069390-sera
+
+# Secondary Buttons
+header-secondary-button:
+  title: Discover More
+  url: http://themeforest.net/user/gleesik
+
+#
+# If your website is placed in a separate folder on your server please modify
+# this with your folder name, by default is empty.
+# Example: Sera Demo is hosted on projects.gleesik.ro/sera-onepage
+# If I compile Sera Template and I put in /sera-onepage without modifing baseurl
+# than scripts can't be loaded corectly.
+# For this example my site url is: projects.gleesik.ro (This can be just www.example.com)
+# My folder for Demo Website is: /sera-onepage so baseurl: /sera-onepage
+#
+baseurl: 
+
+#
+# This is your email adress, contact from send here all emails from contact section
+# IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
+# To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
+#
+email: your_email@example.com
+
+# Offer Banner Link
+# Default link is a link to all Sera OnePage products
+banner-link: https://themeforest.net/collections/6069390-sera
+
+####################################
+######  Global Social Links   ######
+####################################
+google-plus: 'https://plus.google.com/u/0/communities/102261717366580091389'
+
+#########################
+######   Widgets   ######
+#########################
+
+#
+# About Blog Author Widget
+#
+about-widget:
+  author-avatar: avatar-02.jpg
+  author-name: John Doe
+  author-tagline: Blog Author
+  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+  author-social-links:
+    youtube: '#'
+    pinterest: '#'
+    facebook: '#'
+    twitter: '#'
+    google-plus: '#'
+
+# Google Map JS api
+# This is my api for this template
+key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
+map-text: Sera Google Map
+map-text-location: Bucharest, Romania
+map-lat: 44.4267674
+map-lng: 26.102538399999958
+
+# Enter your Mailchimp User ID and Campaign ID
+# @TODO: Add in a link for where to find these
+mailchimp:
+  user-id: REPLACEME
+  list-id: REPLACEME
+
+####
+#
+# Hi you now use Sera - OnePage Jekyll Template created by Gleesik™
+#
+# Below are each section from the website in order from top to bottom
+# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
+#
+####
+
+#####################################
+#############   About   #############
+#####################################
+about-title: What is Substratum?
+about-description: Substratum is an application, downloadable from the Play Store, that utilizes all of Sony's Overlay Manager Service (OMS), found on the official AOSP code review. This is similar to Layers in terms of stability and customization as it runs off an upgraded version of the Resource Runtime Overlay system, with the added benefit of running up-to-date Sony code on a customized ROM.
+
+#####################################
+#############  Features  ############
+#####################################
+features-title: Features of Substratum
+features-description:
+
+#
+# Features
+#
+features:
+
+# Feature
+- title: Simple & Lightweight
+  description: Never again will you need to worry about having themes being mutated in the background without you knowing!
+  icon: pe-7s-sun
+
+# Feature
+- title: Enthusiast Friendly
+  description: Always wanted to have your favorite theme in red? Background in black? As long as the themer adds support for it, anything is definitely possible!
+  icon: pe-7s-paint
+
+# Feature
+- title: Beautiful User Interface
+  description: Not only did we respect Google's Material Design to the core, we stepped beyond that to deliver a high quality user interface to match the feature support provided by Substratum!
+  icon: pe-7s-phone
+
+# Feature
+- title: Rootless at Heart
+  description: Afraid of the scary monsters we call Android malware? We are now running rootless as a base, enriching the user experience with a trusted, sandboxed experience!
+  icon: pe-7s-lock
+  
+# Feature
+- title: Runtime Theming
+  description: Unlike our previous implementation of Layers, our theming system now swaps overlays on-the-fly! No longer will you have to reboot to switch a color, or a theme. Everything happens immediately!
+  icon: pe-7s-gleam
+
+# Feature
+- title: FloatUI
+  description: A new feature that brings up a floating theme head to theme an application without being in Substratum! This works with every app and it is dismissable, just like your favorite chat messenger!
+  icon: pe-7s-drop
+  
+# Feature
+- title: Runs off AOSP-approved code
+  description: Want to enjoy the best of AOSP stock? We do too. We did not want a theming system that would bog down over time, so Substratum will only run on user-demand, never in the background without knowing!
+  icon: pe-7s-like
+  
+# Feature
+- title: Backed by a wonderful community
+  description: Our contributors, themers and developers are always happy to help with issues regarding bugs, theming or even understanding code!
+  icon: pe-7s-comment
+
+# Feature
+- title: Completely Open Sourced
+  description: Our community is small. We need something to call ours, where every contributor feels welcomed to the project with open arms!
+  icon: pe-7s-science
+  
+#####################################
+############  Portfolio  ############
+#####################################
+portfolio-title: Check out our available themes on the market!
+portfolio-description: A theming engine is nothing without its community. Our community consists of many senior themers back in the day, as well as many new ones too!
+
+#
+# Portfolio Grid
+#
+portfolio-categories: [Clear Themes, Dark Themes, Light Themes]
+portfolio:
+
+# Portfolio Item
+- title: Projekt Klar
+  categories: [Clear Themes]
+  image: klar.png
+  
+# Portfolio Item
+- title: Mono
+  categories: [Dark Themes]
+  image: mono.png
+  url: 'https://play.google.com/store/apps/details?id=connoisseurship.project.mono'
+  
+# Portfolio Item
+- title: Belo
+  categories: [Light Themes]
+  image: belo.png
+  url: 'https://play.google.com/store/apps/details?id=dejan.llevo3.belo'
+
+#####################################
+##########  Core Features  ##########
+#####################################
+core-title: App Features
+core-description: A constant ever-growing list, made with love!
+
+#
+# Core Features Left
+#
+core-features-left:
+
+# Feature
+- name: Advanced Manager
+  description: See all your overlays - enabled or disabled, then control them at your own will!
+  icon: pe-7s-news-paper
+
+# Feature
+- name: Defaults Manager
+  description: Don't like the theme you just applied? Quickly disable them all!
+  icon: pe-7s-back
+
+# Feature
+- name: Dynamic Priority Switcher
+  description: Want that nav bar overlay on top of a theme's nav bar? No problem!
+  icon: pe-7s-menu
+
+# Feature
+- name: Profiling System
+  description: Light theme at day, dark theme at night!
+  icon: pe-7s-moon
+
+#
+# Core Features Right
+#
+core-features-right:
+
+# Feature
+- name: FloatUI
+  description: Quickly switch between overlays from within your app! The fastest way possible!
+  icon: pe-7s-help2
+
+# Feature
+- name: Out-of-the-box Customizations
+  description: System sounds, boot animations, fonts and overlays with advanced features!
+  icon: pe-7s-paint
+
+# Feature
+- name: On-device Compilations
+  description: We compile overlay APKs directly on the device, based on your device framework!
+  icon: pe-7s-gleam
+
+# Feature
+- name: Stable Backend and Active Development
+  description: Our team works hard on what we do, as we love what we are doing!
+  icon: pe-7s-study
+
+#####################################
+############# Our Blog ##############
+#####################################
+blog-title: Our Blog
+blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+
+
+#####################################
+############### Team ################
+#####################################
+team-title: The key players!
+team-description: Blood, sweat and tears. They were all worth it!
+#
+# Team Members
+#
+team:
+
+# Team Member
+- name: Nicholas Chum
+  tagline: Substratum App Developer
+  avatar: nicholas.jpg
+
+  # Social Links
+  google-plus: 'https://plus.google.com/+NicholasChumCDT'
+
+# Team Member
+- name: Mike Finnegan
+  tagline: The Architect
+  avatar: mike.jpg
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/+SykoPompos'
+  vimeo: '#'
+
+# Team Member
+- name: Ivan Iskandar
+  tagline: Platform/App Developer
+  avatar: ivan.png
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/+IvanIskandar1023'
+  vimeo: '#'
+
+# Team Member
+- name: George Gian
+  tagline: Platform Developer
+  avatar: george.png
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/+GeorgeGian'
+  vimeo: '#'
+  
+# Team Member
+- name: Cory Collins
+  tagline: Platform Developer
+  avatar: cory.jpg
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/107213348284084753883
+  vimeo: '#'
+
+# Team Member
+- name: Surge Raval
+  tagline: Platform Developer
+  avatar: surge.png
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/109273915986671208869
+  vimeo: '#'
+
+# Team Member
+- name: Nathan Chancellor
+  tagline: Substratum Slave
+  avatar: nathan.jpg
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/+NathanChancellor
+  vimeo: '#'
+
+# Team Member
+- name: Char G
+  tagline: Resident Cat
+  avatar: char.jpg
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: 'https://plus.google.com/+CharG
+  vimeo: '#'
+
