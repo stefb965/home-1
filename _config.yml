@@ -27,13 +27,8 @@ headter-tagline:
 
 # Focus Buttons
 header-focus-button:
-  title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
-
-# Secondary Buttons
-header-secondary-button:
-  title: Discover More
-  url: http://themeforest.net/user/gleesik
+  title: Check it out!
+  url: https://play.google.com/store/apps/details?id=projekt.substratum
 
 #
 # If your website is placed in a separate folder on your server please modify
