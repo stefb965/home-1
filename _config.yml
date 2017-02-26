@@ -176,7 +176,7 @@ portfolio:
 - title: Projekt Klar
   categories: [Clear Themes]
   image: klar.png
-  url: 'http://niceme.me/'
+  url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   
 # Portfolio Item
 - title: Mono
@@ -235,7 +235,7 @@ portfolio:
 # Portfolio Item
 - title: Streamlined Night
   categories: [Dark Themes]
-  image: StreamlinedNight.png
+  image: streamlinednight.png
   url: 'https://play.google.com/store/apps/details?id=snn.streamlined.night'
 
 # Portfolio Item
